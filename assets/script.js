@@ -78,7 +78,7 @@ function generatePassword() {
   
 		console.log(passwordCharacters)
   
-		// Randomize Password 
+		// Password Randomization
 		var randomPassword = ""
 		
 		for (var i = 0; i < passwordLength; i++) {
@@ -95,7 +95,7 @@ function generatePassword() {
   
 	passwordText.value = password;
   }
-  
+
 
 
   

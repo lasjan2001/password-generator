@@ -96,6 +96,6 @@ function generatePassword() {
 	passwordText.value = password;
   }
   
-  
+
   
 
